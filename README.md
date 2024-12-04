@@ -57,4 +57,4 @@
              and detect the objects. 
 
 6.  Existing The Program: 
-    To stop the program, simply press the Esc key or click Exit button in the
+    To stop the program, simply press the Esc key or click Exit button in the interface.
